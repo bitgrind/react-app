@@ -7,3 +7,5 @@ const ListComponent = props => (
     <li>Electric Guitar</li>
   </ul>
 );
+
+export default ListComponent;
