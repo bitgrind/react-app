@@ -1,14 +1,14 @@
 {
-  "main.css": "/bitgrind/react-app/static/css/main.1bc2d7a6.chunk.css",
-  "main.js": "/bitgrind/react-app/static/js/main.706ad4d6.chunk.js",
-  "main.js.map": "/bitgrind/react-app/static/js/main.706ad4d6.chunk.js.map",
-  "static/js/1.324b6cf3.chunk.js": "/bitgrind/react-app/static/js/1.324b6cf3.chunk.js",
-  "static/js/1.324b6cf3.chunk.js.map": "/bitgrind/react-app/static/js/1.324b6cf3.chunk.js.map",
-  "runtime~main.js": "/bitgrind/react-app/static/js/runtime~main.c7a750d7.js",
-  "runtime~main.js.map": "/bitgrind/react-app/static/js/runtime~main.c7a750d7.js.map",
-  "static/media/logo.svg": "/bitgrind/react-app/static/media/logo.5d5d9eef.svg",
-  "static/css/main.1bc2d7a6.chunk.css.map": "/bitgrind/react-app/static/css/main.1bc2d7a6.chunk.css.map",
-  "index.html": "/bitgrind/react-app/index.html",
-  "precache-manifest.01457812acacd02048616d3bb616498a.js": "/bitgrind/react-app/precache-manifest.01457812acacd02048616d3bb616498a.js",
-  "service-worker.js": "/bitgrind/react-app/service-worker.js"
+  "main.css": "/react-app/static/css/main.1bc2d7a6.chunk.css",
+  "main.js": "/react-app/static/js/main.e2e95b7e.chunk.js",
+  "main.js.map": "/react-app/static/js/main.e2e95b7e.chunk.js.map",
+  "static/js/1.324b6cf3.chunk.js": "/react-app/static/js/1.324b6cf3.chunk.js",
+  "static/js/1.324b6cf3.chunk.js.map": "/react-app/static/js/1.324b6cf3.chunk.js.map",
+  "runtime~main.js": "/react-app/static/js/runtime~main.ec461257.js",
+  "runtime~main.js.map": "/react-app/static/js/runtime~main.ec461257.js.map",
+  "static/media/logo.svg": "/react-app/static/media/logo.5d5d9eef.svg",
+  "static/css/main.1bc2d7a6.chunk.css.map": "/react-app/static/css/main.1bc2d7a6.chunk.css.map",
+  "index.html": "/react-app/index.html",
+  "precache-manifest.a534d8102c665a6b2bdefa6b891e667b.js": "/react-app/precache-manifest.a534d8102c665a6b2bdefa6b891e667b.js",
+  "service-worker.js": "/react-app/service-worker.js"
 }
