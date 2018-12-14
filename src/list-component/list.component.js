@@ -6,6 +6,7 @@ const ListComponent = props => (
     <li>DJ Mixer</li>
     <li>Electric Guitar</li>
     <li>Pedal Loops</li>
+    <li>Sub Amp</li>
   </ul>
 );
 
