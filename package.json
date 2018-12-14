@@ -2,7 +2,7 @@
   "name": "react-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://bitgrind.github.io",
+  "homepage": "https://bitgrind.github.io/react-app",
   "dependencies": {
     "babel-core": "^6.26.3",
     "babel-jest": "^23.6.0",
